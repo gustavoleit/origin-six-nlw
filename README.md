@@ -14,11 +14,7 @@ Beauty Salon é um site de uma empresa fictícia que simula um salão de beleza,
 ### :sparkles: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white"/>
-
-<img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white"/> 
-
-<img src="https://img.shields.io/static/v1?label=&message=JS&color=yellowgreen&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=JS&color=yellowgreen&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 ###### :books: Bibliotecas:
 - [Google Fonts](https://fonts.google.com/)
