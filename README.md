@@ -1,5 +1,5 @@
 # Origin Six - Next Level Week Together
- Origin six é projeto de uma aplicação web (Beauty Salon) proporcionado pela [rocketseat]((https://discord.gg/gKUVrzrPrU)) durante a nlw together.
+ Origin six é projeto de uma aplicação web (Beauty Salon) proporcionado pela [rocketseat]((https://discord.gg/gKUVrzrPrU)) durante a NLW Together.
 
 ### :computer: Web:
 <img src="assets/preview/web.gif" alt="Web Version"/>
